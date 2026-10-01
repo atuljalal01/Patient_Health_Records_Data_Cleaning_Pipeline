@@ -452,17 +452,6 @@ Project documentation.
 
 Prevents unnecessary, temporary, and potentially sensitive files from being committed to GitHub.
 
----
-
-## 🔐 Data Privacy
-
-This project involves patient-related fields. Before publishing the repository publicly:
-
-* Confirm that the dataset is synthetic or properly anonymized.
-* Do not upload real patient information.
-* Do not include personally identifiable information.
-* Do not include confidential healthcare records.
-* Keep private/raw healthcare data outside a public repository.
 
 ---
 
