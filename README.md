@@ -287,9 +287,11 @@ Unknown and invalid diagnosis codes were converted to missing values.
 
 ---
 
-### 13. Notes Cleaning
+### 13. Notes Column Removal
 
-Extra whitespace in notes was removed while preserving the actual content.
+The `notes` column was removed from the dataset because it contained free-text information that was not required for the planned structured analysis.
+
+Removing this column makes the final dataset more focused on structured, analysis-ready variables.
 
 ---
 
