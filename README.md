@@ -6,8 +6,6 @@ This project demonstrates a complete **data cleaning and preprocessing pipeline*
 
 The project starts with a raw patient health records dataset containing missing values, inconsistent formats, invalid values, duplicate representations, and mixed data types. The data is cleaned step by step and converted into a structured, analysis-ready dataset.
 
-> **Note:** The dataset used in this project is intended for data-cleaning practice and should be treated as synthetic/non-sensitive data before being shared publicly.
-
 ---
 
 ## 🎯 Project Objectives
@@ -34,7 +32,6 @@ The project starts with a raw patient health records dataset containing missing 
 * **Pandas**
 * **NumPy**
 * **Google Colab**
-* **Jupyter Notebook**
 * **Git & GitHub**
 
 ---
@@ -489,12 +486,8 @@ The pipeline demonstrates practical skills in:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Your Name** - Atul Singh Jalal
 
 Data Cleaning & Data Analytics Internship Project
 
 ---
-
-## ⚠️ Disclaimer
-
-This project is created for **educational and data-processing practice purposes**. The dataset should not be used for medical diagnosis, treatment decisions, or real-world clinical analysis.
